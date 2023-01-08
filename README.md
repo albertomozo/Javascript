@@ -1,2 +1,3 @@
 # Javascript
-Repositorio del curso IFCD65 en AREA
+Repositorio del curso JS
+
